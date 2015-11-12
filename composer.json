@@ -12,12 +12,13 @@
     "require" : {
             "php" : ">=5.5.0",
             "symfony/symfony": "2.7.*",
-            "nategood/httpful": "^0.2.20"
+            "nategood/httpful": "^0.2.20",
+            "micro/client": "0.1.0"
     },
     "autoload" : {
         "psr-0" : {
-            "Micro\\RemoteService\\RemoteServiceBundle" : ""
+            "Micro\\RemoteServiceBundle" : ""
         }
     },
-    "target-dir" : "Micro/RemoteService/MicroRemoteServiceBundle"
+    "target-dir" : "Micro/RemoteServiceBundle"
 }
