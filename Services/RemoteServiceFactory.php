@@ -8,7 +8,7 @@
 
 namespace Micro\RemoteService\Services;
 
-use AppBundle\Services\Rest\Client;
+use Micro\ClientBundle\Rest\Client;
 use Httpful\Request;
 
 /**
