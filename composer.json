@@ -1,0 +1,23 @@
+{
+    "name" : "micro/remoteservice",
+    "description" : "RemoteService Bundle for microservice architecture",
+    "type" : "symfony-bundle",
+    "authors" : [{
+        "name" : "Alexandre Martinez",
+        "email" : "alexandre.martinez76@gmail.com"
+    }],
+    "keywords" : [
+        "remote microservice micro"
+    ],
+    "require" : {
+            "php" : ">=5.5.0",
+            "symfony/symfony": "2.7.*",
+            "nategood/httpful": "^0.2.20"
+    },
+    "autoload" : {
+        "psr-0" : {
+            "Micro\\RemoteService\\RemoteServiceBundle" : ""
+        }
+    },
+    "target-dir" : "Micro/RemoteService/MicroRemoteServiceBundle"
+}
