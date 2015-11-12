@@ -1,5 +1,5 @@
 {
-    "name" : "micro/remoteservice",
+    "name" : "am-micro/remoteservice",
     "description" : "RemoteService Bundle for microservice architecture",
     "type" : "symfony-bundle",
     "authors" : [{
@@ -13,7 +13,7 @@
             "php" : ">=5.5.0",
             "symfony/symfony": "2.7.*",
             "nategood/httpful": "^0.2.20",
-            "micro/client": "0.1.0"
+            "am-micro/client": "0.1.0"
     },
     "autoload" : {
         "psr-0" : {
