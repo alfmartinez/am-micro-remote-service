@@ -1,4 +1,0 @@
-services:
-#    micro_remote_service.example:
-#        class: Micro\RemoteServiceBundle\Example
-#        arguments: [@service_id, "plain_value", %parameter%]

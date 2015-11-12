@@ -6,7 +6,7 @@
  * and open the template in the editor.
  */
 
-namespace Micro\RemoteService\Services;
+namespace Micro\RemoteServiceBundle\Services;
 
 use Micro\ClientBundle\Rest\Client;
 use Httpful\Request;
