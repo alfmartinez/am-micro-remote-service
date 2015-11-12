@@ -2,6 +2,7 @@
     "name" : "am-micro/remoteservice",
     "description" : "RemoteService Bundle for microservice architecture",
     "type" : "symfony-bundle",
+    "license": "MIT",
     "authors" : [{
         "name" : "Alexandre Martinez",
         "email" : "alexandre.martinez76@gmail.com"
@@ -17,7 +18,7 @@
     },
     "autoload" : {
         "psr-4" : {
-            "Micro\\RemoteServiceBundle" : ""
+            "Micro\\RemoteServiceBundle\\" : ""
         }
     }
 }
