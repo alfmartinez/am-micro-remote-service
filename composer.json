@@ -14,7 +14,7 @@
             "php" : ">=5.5.0",
             "symfony/symfony": "2.7.*",
             "nategood/httpful": "^0.2.20",
-            "am-micro/client": "^0.0.0"
+            "am-micro/client": "dev-master"
     },
     "autoload" : {
         "psr-4" : {
