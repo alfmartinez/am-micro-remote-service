@@ -1,4 +1,4 @@
-# Micro Service Client
+# Micro Service Remote Service
 
 ![Build status][travis-build]
 ![codecov.io][code-cov]
