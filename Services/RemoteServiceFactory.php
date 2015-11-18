@@ -31,6 +31,7 @@ class RemoteServiceFactory {
                 ->expectsJson()
                 ->withXTrivialHeader('Asking registry')
                 ->send();
+
         return $response->body->url;
     }
 
